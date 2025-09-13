@@ -1,0 +1,239 @@
+PRI_COLOR:#062971(The actual primary color)
+SEC_SEC:#BF9108(The secondary Color)
+>>>WHERE THE HEART ICON IS...USE IT AS A PLACE HOLDER, I'll replace with the actual MSCU LOGO
+>>>NEXT THE BACKGROUND COLOR OVAL STUFF CONTAINING THE NAME MEDICAL SCHOOL CHRISTIAN UNION, AND THE ICON SHOULD BE THE SEC_COLOR BACKGROUND
+>>>THE COMPASSION WEEK TEXT S.HOULD LOAD WITH AN ANIMATION: COMPASSION WEEK --> THEN THE WEEK SHOULD SORT OF PHASE OUT WITH AN ANIMATION, AND THE COMPASSION TEXT TAKE FULL SIZE...
+>>>THE TEXTS AND BACKGROUND SHOULD BE TRANSPARENT...SINCE THERE SHOULD BE A VIDEO IN THE BACKGROUND
+>>>ANIMATE THE BUTTONS
+
+>>>THE BIBLE VERSE CARD(AND ALL CARDS) SHOULD BE A FLOATING CARD, WITH AN ANIMATION WHEN HOVERED ON...
+>>>PAYBILL DETAILS: PAYBILL NO; 4109183, ACCOUNT NO; COMPASSION
+
+
+NAMES OF THOSE TO REACH OUT:
+...SO WHATSAPP LINK, AND CALL OPTION
+...PLACE PLACEHOLDERS FOR THE PROFILE PICTURES, ALso just place placeholders for their speific roles or niches like spiritual guidance and the like(i'll replace)
+>BANCY NASIRO-0768202589; MEMBERS
+>BRENDA WANYAMA-0745730449; CHAIRPERSON
+>BRIAN CHEGE-0796693660; MEMBERS
+>KATRINA NELIMA-0794936760; MEMBERS
+>NAOM OMARE-0751161828; SECRETARY
+
+>>>SUPPORT OUR MISSION SECTION:
+- ADD DETAILS FOR PHYSICAL CONTRIBUTIONS...JUST PLACE A PLACEHOLDER LOCATION I'LL CHANGE...USE THE LOCATION ICON TOO
+
+
+>>>JOIN WHATSAPP GROUP PART I THINK WE SHOULD DO AWAY WITH IT...AND MAYBE USE THE LINKTREE...
+
+>>>MSCU LINK TREE: linktr.ee./mscuon (REPLACE THE SECOND JOIN OUR WHATSAPP COMMUNITY WITH THIS)
+
+>>ALSO correct all instances you've said Medical Christian Union to Medical School Christian Union(MSCU
+
+The contact us part, i think you can put the link tree...and location: -1.2978120, 36.8046173, plus code adress: PR23+VRH Nairobi
+
+Scrolling animations, the objects come into view...or an appropriate animation..
+
+TAGLINE TO USE IN THE FOOTER: We Are Family,,, instead of Reconciled to God...
+
+
+The Bible Verses:
+>>>Write down all the scriptures here related to compassion, ...and a fun interesting fact from them...
+
+38 Bible verses about mercy and compassion
+
+An amazing selection of verses about God’s nature, the incredible consequences this has for us, and the responsibility we are given.
+
+Verses about God’s and Jesus’ compassion and mercy for us
+“The Lord, the Lord God, merciful and gracious, longsuffering, and abounding in goodness and truth, keeping mercy for thousands, forgiving iniquity and transgression and sin …” Exodus 34:6-7.
+
+“Therefore know that the Lord your God, He is God, the faithful God who keeps covenant and mercy for a thousand generations with those who love Him and keep His commandments …” Deuteronomy 7:9.
+
+“With the merciful You will show Yourself merciful …” 2 Samuel 22:26.
+
+“All the paths of the Lord are mercy and truth, to such as keep His covenant and His testimonies.” Psalm 25:10.
+
+“But You, O Lord, are a God full of compassion, and gracious, longsuffering and abundant in mercy and truth.” Psalm 86:15.
+
+“Righteousness and justice are the foundation of Your throne; mercy and truth go before Your face.” Psalm 89:14.
+
+“The Lord is gracious and full of compassion, slow to anger and great in mercy. The Lord is good to all, and His tender mercies are over all His works.” Psalm 145:8-9.
+
+“Through the Lord’s mercies we are not consumed, because His compassions fail not. They are new every morning; great is Your faithfulness.” Lamentations 3:22-23.
+
+“Who is a God like You, pardoning iniquity and passing over the transgression of the remnant of His heritage? He does not retain His anger forever, because He delights in mercy. He will again have compassion on us, and will subdue our iniquities. You will cast all our sins into the depths of the sea.” Micah 7:18-19.
+
+“For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.” John 3:16.
+
+“But God, who is rich in mercy, because of His great love with which He loved us, even when we were dead in trespasses, made us alive together with Christ (by grace you have been saved) …” Ephesians 2:4-5.
+
+“And Jesus, when He came out, saw a great multitude and was moved with compassion for them, because they were like sheep not having a shepherd. So He began to teach them many things.” Mark 6:34.
+
+“Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people. For in that He Himself has suffered, being tempted, He is able to aid those who are tempted.” Hebrews 2:17-18.
+
+“Seeing then that we have a great High Priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession. For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin. Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.” Hebrews 4:14-16.
+
+“Therefore be merciful, just as your Father also is merciful.” Luke 6:36.
+
+“Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God.” 2 Corinthians 1:3-4.
+
+“To him who is afflicted, kindness should be shown by his friend, even though he forsakes the fear of the Almighty.” Job 6:14.
+
+“Unto the upright there arises light in the darkness; He is gracious, and full of compassion, and righteous.” Psalm 112:4.
+
+“Let not mercy and truth forsake you; bind them around your neck, write them on the tablet of your heart, and so find favor and high esteem in the sight of God and man.” Proverbs 3:3-4.
+
+“The merciful man does good for his own soul, But he who is cruel troubles his own flesh.” Proverbs 11:17.
+
+“A righteous man regards the life of his animal, But the tender mercies of the wicked are cruel.” Proverbs 12:10.
+
+“He who despises his neighbor sins; but he who has mercy on the poor, happy is he.”  Proverbs 14:21.
+
+“He who oppresses the poor reproaches his Maker, but he who honors Him has mercy on the needy.” Proverbs 14:31.
+
+“He has shown you, O man, what is good; and what does the Lord require of you but to do justly, to love mercy, and to walk humbly with your God?” Micah 6:8.
+
+“Thus says the Lord of hosts: ‘Execute true justice, show mercy and compassion everyone to his brother. Do not oppress the widow or the fatherless, the alien or the poor. Let none of you plan evil in his heart against his brother.’” Zechariah 7:8-10.
+
+“Blessed are the merciful, for they shall obtain mercy.” Matthew 5:7.
+
+“Judge not, that you be not judged. For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you.” Matthew 7:1-2.
+
+“Therefore, whatever you want men to do to you, do also to them, for this is the Law and the Prophets.” Matthew 7:12.
+
+“Woe to you, scribes and Pharisees, hypocrites! For you pay tithe of mint and anise and cummin, and have neglected the weightier matters of the law: justice and mercy and faith. These you ought to have done, without leaving the others undone.” Matthew 23:23.
+
+“‘… for I was hungry and you gave Me food; I was thirsty and you gave Me drink; I was a stranger and you took Me in; I was naked and you clothed Me; I was sick and you visited Me; I was in prison and you came to Me.’ Then the righteous will answer Him, saying, ‘Lord, when did we see You hungry and feed You, or thirsty and give You drink? When did we see You a stranger and take You in, or naked and clothe You? Or when did we see You sick, or in prison, and come to You?’ And the King will answer and say to them, ‘Assuredly, I say to you, inasmuch as you did it to one of the least of these My brethren, you did it to Me. … Assuredly, I say to you, inasmuch as you did not do it to one of the least of these, you did not do it to Me.’” Matthew 25:35-40,45.
+
+“Bear one another’s burdens, and so fulfill the law of Christ.” Galatians 6:2.
+
+“Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart. Therefore, as we have opportunity, let us do good to all, especially to those who are of the household of faith.” Galatians 6:7-10.
+
+“Let all bitterness, wrath, anger, clamor, and evil speaking be put away from you, with all malice. And be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.” Ephesians 4:31-32.
+
+“Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering; bearing with one another, and forgiving one another, if anyone has a complaint against another; even as Christ forgave you, so you also must do. But above all these things put on love, which is the bond of perfection.” Colossians 3:12-14.
+
+“Now we exhort you, brethren, warn those who are unruly, comfort the fainthearted, uphold the weak, be patient with all. See that no one renders evil for evil to anyone, but always pursue what is good both for yourselves and for all.” 1 Thessalonians 5:14-15.
+
+“For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment.” James 2:13.
+
+“But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.” James 3:17.
+
+“Finally, all of you be of one mind, having compassion for one another; love as brothers, be tenderhearted, be courteous; not returning evil for evil or reviling for reviling, but on the contrary blessing, knowing that you were called to this, that you may inherit a blessing.” 1 Peter 3:8-9.
+
+and fun facts:
+>>>Exodus 34:6-7 – “The Lord, the Lord God, merciful and gracious…”
+🟡 Fun fact: This is the most-quoted verse about God’s character — even other Bible writers repeat it (e.g., Psalm 103:8, Joel 2:13). It’s God’s own “bio.”
+
+Deuteronomy 7:9 – God keeps mercy for a thousand generations.
+🟡 Fun fact: A thousand generations would cover over 30,000 years — meaning His mercy is effectively limitless.
+
+2 Samuel 22:26 – “With the merciful You will show Yourself merciful.”
+🟡 Fun fact: This verse is also in Psalm 18:25 — David liked it so much, he sang it twice!
+
+Psalm 25:10 – “All the paths of the Lord are mercy and truth.”
+🟡 Fun fact: Mercy + truth is one of the Bible’s favorite “duos” — they appear together over 30 times.
+
+Psalm 86:15 – God is “full of compassion.”
+🟡 Fun fact: David says this in the middle of a prayer for help — compassion isn’t just a feeling; it’s what gives us hope.
+
+Psalm 89:14 – “Mercy and truth go before Your face.”
+🟡 Fun fact: This means mercy leads God’s every action — before judgment, before justice.
+
+Psalm 145:8-9 – “The Lord is gracious and full of compassion.”
+🟡 Fun fact: This is the only psalm where every verse starts with a new letter of the Hebrew alphabet — an ABC of praise.
+
+Lamentations 3:22-23 – “His compassions are new every morning.”
+🟡 Fun fact: Jeremiah wrote this while watching Jerusalem in ruins — proving compassion shines brightest in despair.
+
+Micah 7:18-19 – God casts our sins into the sea.
+🟡 Fun fact: In Jewish tradition, people toss bread into water during Yom Kippur to symbolize this verse — literally “throwing away” sins.
+
+John 3:16 – God gave His Son out of love.
+🟡 Fun fact: This is the most translated Bible verse in history — over 1,600 languages and counting.
+
+Ephesians 2:4-5 – “God, who is rich in mercy…”
+🟡 Fun fact: Paul says God isn’t just merciful — He’s “rich” in it. Mercy is God’s wealth!
+
+Mark 6:34 – Jesus was moved with compassion and taught them.
+🟡 Fun fact: Jesus’ compassion often led Him to teach, not just heal — because truth is the deepest form of help.
+
+Hebrews 2:17-18 – Jesus is a merciful High Priest.
+🟡 Fun fact: High Priests offered sacrifices for sin — Jesus offered Himself, the ultimate compassionate act.
+
+Hebrews 4:14-16 – We can “come boldly to the throne of grace.”
+🟡 Fun fact: Ancient kings’ thrones meant fear — God’s throne invites confidence and mercy-seeking.
+
+📖 Verses about Our Call to Show Compassion
+
+Luke 6:36 – “Be merciful, just as your Father also is merciful.”
+🟡 Fun fact: This is like Jesus saying, “Act like your Dad!” Mercy runs in the family.
+
+2 Corinthians 1:3-4 – God comforts us so we can comfort others.
+🟡 Fun fact: This is the ultimate “pay-it-forward” verse — comfort is meant to circulate.
+
+Job 6:14 – “To him who is afflicted, kindness should be shown…”
+🟡 Fun fact: This is Job gently telling his friends, “Guys, maybe try sympathy instead of lectures?”
+
+Psalm 112:4 – “Light arises in the darkness.”
+🟡 Fun fact: This verse calls compassion a light — a kind heart literally brightens dark situations.
+
+Proverbs 3:3-4 – Bind mercy around your neck.
+🟡 Fun fact: Think of this as wearing compassion like a necklace — a permanent accessory.
+
+Proverbs 11:17 – “The merciful man does good for his own soul.”
+🟡 Fun fact: Helping others is scientifically proven to release endorphins — a Biblical “feel-good” hack.
+
+Proverbs 12:10 – “A righteous man regards the life of his animal.”
+🟡 Fun fact: This is one of the earliest pro-animal-care verses in history — centuries before modern animal rights.
+
+Proverbs 14:21 – “He who has mercy on the poor, happy is he.”
+🟡 Fun fact: Compassion is linked to happiness — charity is good for mental health!
+
+Proverbs 14:31 – Honoring God = mercy on the needy.
+🟡 Fun fact: This verse basically says, “How you treat the poor is how you treat God.”
+
+Micah 6:8 – “Love mercy, walk humbly.”
+🟡 Fun fact: This is one of the simplest “mission statements” of the whole Bible.
+
+Zechariah 7:8-10 – Show mercy and compassion to everyone.
+🟡 Fun fact: This was said after the Israelites had returned from exile — compassion was key to rebuilding community.
+
+Matthew 5:7 – “Blessed are the merciful…”
+🟡 Fun fact: Mercy is one of the only Beatitudes with a built-in reward — you get what you give.
+
+Matthew 7:1-2 – Judge not, so you won’t be judged.
+🟡 Fun fact: The most misquoted verse in pop culture — but it’s really about showing mercy.
+
+Matthew 7:12 – The Golden Rule.
+🟡 Fun fact: Almost every major religion has a version of this — mercy is a universal language.
+
+Matthew 23:23 – Jesus calls mercy a “weightier matter of the law.”
+🟡 Fun fact: He ranked mercy higher than rituals — love > legalism.
+
+Matthew 25:35-40, 45 – “I was hungry and you gave Me food…”
+🟡 Fun fact: This is Jesus identifying with the needy so closely that helping them is helping Him.
+
+Galatians 6:2 – “Bear one another’s burdens.”
+🟡 Fun fact: This is like spiritual weightlifting — we’re all personal trainers for each other’s souls.
+
+Galatians 6:7-10 – “Whatever a man sows, that he will also reap.”
+🟡 Fun fact: Compassion is seed-planting — expect a harvest of kindness back.
+
+Ephesians 4:31-32 – “Be kind to one another…”
+🟡 Fun fact: The Greek word for “tenderhearted” literally means “having strong bowels” — compassion was felt in the gut!
+
+Colossians 3:12-14 – Put on tender mercies like clothes.
+🟡 Fun fact: This is a daily “dress code” — you can actually choose to wear compassion every morning.
+
+1 Thessalonians 5:14-15 – Be patient with all.
+🟡 Fun fact: The command covers everyone — even that annoying person in class.
+
+James 2:13 – “Mercy triumphs over judgment.”
+🟡 Fun fact: Mercy is pictured as winning a court case — the final verdict is grace.
+
+James 3:17 – Wisdom is “full of mercy.”
+🟡 Fun fact: True wisdom isn’t just smart — it’s kind.
+
+1 Peter 3:8-9 – Have compassion for one another.
+🟡 Fun fact: This was written to persecuted believers — compassion was how they stayed united under pressure.
+
