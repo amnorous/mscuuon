@@ -11,8 +11,8 @@
     }
   ],
   "functions": {
-    "server/index.ts": {
-      "maxDuration": 10
+    "api/index.ts": {
+      "runtime": "vercel-nodejs@18.15.0"
     }
   }
 }
