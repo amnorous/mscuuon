@@ -92,7 +92,7 @@ export default function SeekAssistanceSection() {
             Seek Assistance
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Don't face your challenges alone. Our dedicated Medical Students Christian Union team is here to provide support, guidance, and assistance when you need it most.
+            Don't face your challenges alone. Our dedicated Compassion sub-committee team is here to provide support, guidance, and assistance when you need it most.
           </p>
         </div>
 
