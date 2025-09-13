@@ -1,136 +1,112 @@
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
-import { Phone, MessageCircle, Heart } from "lucide-react";
+import { Heart, Users } from "lucide-react";
 
-interface Official {
-  id: number;
-  name: string;
-  title: string;
-  phone: string;
-  whatsapp: string;
-  initials: string;
-  description: string;
-  image?: string; // optional
+interface HeroSectionProps {
+  onSupportClick: () => void;
+  onAssistanceClick: () => void;
 }
 
-const officials: Official[] = [
-  {
-    id: 1,
-    name: "Brenda Wanyama",
-    title: "Chairperson",
-    phone: "+254745730449",
-    whatsapp: "254745730449",
-    initials: "BW",
-    description: "-",
-    image: "/images/Brenda.jpg",
-  },
-  {
-    id: 2,
-    name: "Naom Omare",
-    title: "Secretary",
-    phone: "+254751161828",
-    whatsapp: "254751161828",
-    initials: "NO",
-    description: "As a member of the compassion subcommittee, I'm passionate about proactively reaching out to those in need and providing timely support to make a meaningful difference in their lives.",
-    image: "/images/Naom.jpg",
-  },
-  {
-    id: 3,
-    name: "Bancy Nasiro",
-    title: "Member",
-    phone: "+254768202589",
-    whatsapp: "254768202589",
-    initials: "BN",
-    description: "-",
-    image: "/images/Bancy.jpg",
-  },
-  {
-    id: 4,
-    name: "Brian Chege",
-    title: "Member",
-    phone: "+254796693660",
-    whatsapp: "254796693660",
-    initials: "BC",
-    description: "-",
-    image: "/images/Chege.png",
-  },
-  {
-    id: 5,
-    name: "Katrina Nelima",
-    title: "Member",
-    phone: "+254794936760",
-    whatsapp: "254794936760",
-    initials: "KN",
-    description: "-",
-    image: "/images/Katrina.png",
-  },
-];
+export default function HeroSection({ onSupportClick, onAssistanceClick }: HeroSectionProps) {
+  const [videoEnded, setVideoEnded] = useState(false);
+  const [fadeOut, setFadeOut] = useState(false);
 
-export default function SeekAssistanceSection() {
-  const handleCall = (phone: string) => {
-    window.open(`tel:${phone}`, "_self");
-  };
-
-  const handleWhatsApp = (whatsapp: string, name: string) => {
-    const message = encodeURIComponent(
-      `Hello ${name}, I am reaching out for assistance through the Compassion Week initiative. Could you please help me?`
-    );
-    window.open(`https://wa.me/${whatsapp}?text=${message}`, "_blank");
+  const handleVideoEnd = () => {
+    setFadeOut(true);
+    setTimeout(() => setVideoEnded(true), 1000); // Wait for fade-out to finish
   };
 
   return (
-    <section id="assistance" className="py-16 bg-background">
-      <div className="container mx-auto px-6 max-w-6xl">
-        {/* Header */}
-        <div className="text-center space-y-4 mb-12">
-          <div className="inline-flex items-center gap-2 bg-chart-2/20 text-chart-2 px-4 py-2 rounded-full text-sm font-medium border border-chart-2/30">
-            <Heart className="w-4 h-4" />
-            We're Here to Help
+    <section className="relative h-screen w-full flex items-center justify-center text-center text-white overflow-hidden">
+      {/* Video OR Fallback Background */}
+      {!videoEnded ? (
+        <video
+          autoPlay
+          muted
+          playsInline
+          onEnded={handleVideoEnd}
+          className={`absolute inset-0 w-full h-full object-cover z-0 transition-opacity duration-1000 ${
+            fadeOut ? "opacity-0" : "opacity-100"
+          }`}
+        >
+          <source src="/media/CompassionVIDEO.mp4" type="video/mp4" />
+        </video>
+      ) : (
+        <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-primary/80 to-chart-1/80 z-0 animate-fade-in" />
+      )}
+
+      {/* Dark Overlay (always covers top!) */}
+      <div className="absolute inset-0 bg-black/50 z-10 pointer-events-none" />
+
+      {/* Hero Content */}
+      <div className="relative z-20 max-w-4xl mx-auto px-6 space-y-8">
+        {/* Logo/Badge */}
+        <div className="inline-flex items-center gap-3 bg-chart-2/20 backdrop-blur-sm border border-chart-2/40 rounded-full px-6 py-3">
+          <div className="w-12 h-12 bg-chart-2 rounded-full flex items-center justify-center">
+            <img
+            src="/media/mscu.jpeg" 
+            alt="Logo"
+            className="w-8 h-8 object-contain"
+            />
           </div>
-          <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-            Seek Assistance
-          </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Don't face your challenges alone. Our dedicated Compassion sub-committee team is here to provide support, guidance, and assistance when you need it most.
+          <span className="text-sm font-medium tracking-wide">
+            MEDICAL SCHOOL CHRISTIAN UNION
+          </span>
+        </div>
+
+        {/* Main Heading */}
+        <div className="space-y-4">
+          <h1 className="text-5xl md:text-7xl font-bold tracking-tight animate-fade-in">
+            <span className="animate-pulse">COMPASSION</span>
+            <span className="block text-chart-2 animate-bounce delay-500">
+              MINISTRY
+            </span>
+          </h1>
+          <div className="bg-white rounded-full px-8 py-4 inline-block">
+            <p className="text-chart-1 text-xl md:text-2xl font-semibold">
+              ACTS OF KINDNESS, HEARTS OF LOVE
+            </p>
+          </div>
+        </div>
+
+        {/* Date Range */}
+        <div className="bg-chart-2/90 backdrop-blur-sm rounded-2xl px-8 py-4 inline-block border border-white/20">
+          <p className="text-lg md:text-xl font-semibold">
+            Reconciled to God, Ambassadors for Christ
           </p>
         </div>
 
-        {/* Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mb-12">
-          {officials.map((official) => (
-            <Card key={official.id} className="bg-card border-2 border-border card-hover">
-              <CardHeader className="text-center">
-                <Avatar className="w-20 h-20 mx-auto mb-4">
-                  {/* Always include fallback for initials */}
-                  {official.image && <AvatarImage src={official.image} alt={official.name} />}
-                  <AvatarFallback className="bg-chart-2 text-white text-lg font-semibold">
-                    {official.initials}
-                  </AvatarFallback>
-                </Avatar>
-                <CardTitle className="text-xl text-foreground">{official.name}</CardTitle>
-                <p className="text-chart-2 font-medium">{official.title}</p>
-                <p className="text-muted-foreground text-sm">{official.description}</p>
-              </CardHeader>
-              <CardContent className="space-y-3">
-                <Button
-                  onClick={() => handleCall(official.phone)}
-                  className="w-full bg-primary hover:bg-chart-2 text-white border border-primary hover:border-chart-2"
-                >
-                  <Phone className="w-4 h-4 mr-2" />
-                  Call {official.name.split(" ")[0]}
-                </Button>
-                <Button
-                  onClick={() => handleWhatsApp(official.whatsapp, official.name)}
-                  variant="outline"
-                  className="w-full border-2 border-green-500 text-green-600 hover:bg-green-50 dark:hover:bg-green-950"
-                >
-                  <MessageCircle className="w-4 h-4 mr-2" />
-                  WhatsApp {official.name.split(" ")[0]}
-                </Button>
-              </CardContent>
-            </Card>
-          ))}
+        {/* Tagline */}
+        <div className="space-y-2">
+          <p className="text-lg md:text-xl font-light italic">
+            "Kindness is contagious"
+          </p>
+          <p className="text-base md:text-lg opacity-90">
+            
+          </p>
+        </div>
+
+        {/* Buttons */}
+        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
+          <Button
+            size="lg"
+            className="bg-primary hover:bg-chart-2 text-white px-8 py-4 text-lg font-semibold border-2 border-primary hover:border-chart-2 transform transition-all duration-300 hover:scale-105 animate-slide-up"
+            onClick={onSupportClick}
+            data-testid="button-support"
+          >
+            <Heart className="w-5 h-5 mr-2" />
+            Support Us
+          </Button>
+          <Button
+            variant="outline"
+            size="lg"
+            className="bg-white/10 hover:bg-white/20 text-white border-2 border-white backdrop-blur-sm px-8 py-4 text-lg font-semibold transform transition-all duration-300 hover:scale-105 animate-slide-up delay-200"
+            onClick={onAssistanceClick}
+            data-testid="button-assistance"
+          >
+            <Users className="w-5 h-5 mr-2" />
+            Seek Assistance
+          </Button>
         </div>
       </div>
     </section>
