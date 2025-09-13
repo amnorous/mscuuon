@@ -74,7 +74,7 @@ export default function ContactSection() {
             </h3>
             <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
               Discover all our resources, social media, and community links in one convenient place. 
-              Stay connected with the Medical Students Christian Union community.
+              Stay connected with the Medical School Christian Union community.
             </p>
             <Button
               onClick={() => {
@@ -98,7 +98,7 @@ export default function ContactSection() {
         <div className="text-center mt-12 pt-8 border-t border-border">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Heart className="w-0 h-0 text-chart-2" />
-            <span className="text-lg font-semibold text-foreground">Medical Students Christian Union (MSCU)</span>
+            <span className="text-lg font-semibold text-foreground">Medical School Christian Union (MSCU)</span>
           </div>
           <p className="text-muted-foreground">
             We Are Family
